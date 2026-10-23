@@ -1,0 +1,9 @@
+Create a list and 2 tuples , 1st system prompt, 2nd tuple user prompt 
+prompt langchain chat groq openai-gpt-oss-20b
+API KEY - os . environment , groq api KEY
+pass the message by invoking through langchain 
+JSOn format to pass the data through API why json for API
+response always be in a json
+String output parser
+object invoke simple to use functions from classes
+prompt template variable.AWSTemplateFormatVersion: "2010-09-09"
