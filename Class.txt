@@ -1,0 +1,8 @@
+10/10/26
+
+- Create and classify the sentiment by sending message prompt using zero shot , one shot and 
+few shot (Examples of propmpting)
+
+- System Prompt vs User Prompt 
+- role context , output , constraints 
+- 

@@ -1,0 +1,4 @@
+LLM itself decides what to do 
+sequentials workflow 
+state for memory - dictionary key is create using strings why not list or tuple 
+we can create tuple too as a key of dictionary

@@ -1,0 +1,14 @@
+When to you base tool, asynch function and structured tool.
+2 parts of invoke
+khud se padhana start kardo 
+ye bas basic level se 
+sab kuch cover nahi ho Parameters:
+  important part ko nikaalana hai from pdf of 100 pages
+  Embedding contextual = sentence ka numerical form 
+  dot product for similiarity between 2 vectors 
+  vector database , chromadb , localdatabase 
+  cloud provided vector databases - finetone, quadrant, AWS< Opensearch < Google GCP
+  OpenAI, Ollama, ANtropic , gemini, openrouter
+  3 components - embedding , vector database , LLM
+  End to end RAG implementation manually 
+    Type: 
